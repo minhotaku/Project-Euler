@@ -11,4 +11,5 @@ int main()
             sum += i;
     }
     std::cout << sum;
+    return 0;
 }

@@ -35,5 +35,6 @@ int main()
             largestPrime /= num;
         num = nextPrime(num);
     }
-    std::cout<<largestPrime;
+    std::cout << largestPrime;
+    return 0;
 }

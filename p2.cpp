@@ -17,4 +17,5 @@ int main()
         fn = f0 + f1;
     }
     std::cout << sum;
+    return 0;
 }
